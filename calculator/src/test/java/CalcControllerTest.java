@@ -1,9 +1,9 @@
-import Operations.OperationType;
+import Calculator.CalcController;
+import Calculator.Operations.OperationType;
 import org.junit.Test;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Objects;
 
 import static com.google.common.primitives.Doubles.asList;
 import static org.junit.Assert.*;
@@ -57,3 +57,6 @@ public class CalcControllerTest {
         assertTrue(res == 4.0);
     }
 }
+
+//matchers & assertThat
+//eclpse collections

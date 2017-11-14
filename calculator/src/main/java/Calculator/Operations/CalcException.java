@@ -1,4 +1,4 @@
-package Operations;
+package Calculator.Operations;
 
 /**
  * Created by sebi on 10/5/2017.
