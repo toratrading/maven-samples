@@ -11,7 +11,7 @@ public class TestGreeter1 {
   private Greeter1 greeter;
 
   @Before
-  public void setup() {
+  public void setUp() {
     greeter = new Greeter1();
   }
 
